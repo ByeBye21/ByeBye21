@@ -18,10 +18,8 @@ src="https://img.shields.io/github/followers/byebye21?logo=github&style=for-the-
 
 ### Badges
 
-<b>Top Repositories</b>
+<b>My GitHub Stats</b>
 
-<div width="100%" align="center"><a href="https://github.com/byebye21/AVL_tree" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=byebye21&repo=AVL_tree&title_color=3382ed&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/byebye21/cinema_database_management_system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=byebye21&repo=cinema_database_management_system&title_color=3382ed&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="http://www.github.com/byebye21"><img src="https://github-readme-stats.vercel.app/api?username=byebye21&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="byebye21's GitHub stats" /></a>
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/byebye21/WEB" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=byebye21&repo=WEB&title_color=3382ed&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/byebye21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byebye21&langs_count=10&title_color=3382ed&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
