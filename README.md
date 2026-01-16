@@ -1,16 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Younes Rahebi
-=====================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Younes Rahebi
+======================================================================================================================================
 
-<a href="https://www.github.com/byebye21" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/byebye21?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
+Developer | Python | AI | SQL
+-----------------------------
 
-### Skills
+Developer specialized in Python and AI concepts. Combines engineering principles with data science to create effective software. Focused on professional growth and delivering reliable technical results.
 
+* 🌍  I'm based in Sakarya, Turkey
+* 🖥️  See my portfolio at [byebye21.github.io](http://byebye21.github.io/)
+* ✉️  You can contact me at [younes0079@gmail.com](mailto:younes0079@gmail.com)
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
 </p>
-
 
 ### Socials
 
@@ -20,6 +22,22 @@ src="https://img.shields.io/github/followers/byebye21?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/byebye21"><img src="https://github-readme-stats.vercel.app/api?username=byebye21&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="byebye21's GitHub stats" /></a>
+<a href="http://www.github.com/byebye21"><img src="https://github-readme-stats.vercel.app/api?username=byebye21&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="byebye21's GitHub stats" /></a>
 
-<a href="https://github.com/byebye21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byebye21&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/byebye21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byebye21&langs_count=10&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/byebye21/email_automation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=byebye21&repo=email_automation&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/byebye21/email_extractor" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=byebye21&repo=email_extractor&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/byebye21/CPU_scheduling_simulator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=byebye21&repo=CPU_scheduling_simulator&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/byebye21/enron_spam_detection" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=byebye21&repo=enron_spam_detection&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/byebye21"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
