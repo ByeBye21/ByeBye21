@@ -10,6 +10,9 @@ Developer specialized in Python and AI concepts. Combines engineering principles
 * 🖥️  See my portfolio at [byebye21.github.io](http://byebye21.github.io/)
 * ✉️  You can contact me at [younes0079@gmail.com](mailto:younes0079@gmail.com)
 
+<a href="https://www.github.com/byebye21" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/byebye21?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
+
 ### Skills
 
 <p align="left">
@@ -27,14 +30,6 @@ Developer specialized in Python and AI concepts. Combines engineering principles
 <a href="http://www.github.com/byebye21"><img src="https://github-readme-stats.vercel.app/api?username=byebye21&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="byebye21's GitHub stats" /></a>
 
 <a href="https://github.com/byebye21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byebye21&langs_count=10&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/byebye21/email_automation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=byebye21&repo=email_automation&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/byebye21/email_extractor" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=byebye21&repo=email_extractor&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/byebye21/CPU_scheduling_simulator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=byebye21&repo=CPU_scheduling_simulator&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/byebye21/enron_spam_detection" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=byebye21&repo=enron_spam_detection&title_color=64748b&text_color=64748b&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
